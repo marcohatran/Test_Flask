@@ -1,0 +1,12 @@
+certifi==2021.5.30
+click
+Flask
+MarkupSafe
+Werkzeug
+requests
+lxml
+chardet
+click
+idna
+Shapely
+pandas
